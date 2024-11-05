@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://efavuuka.github.io/alx/sitemap_index.txt
+Sitemap: https://efavuuka.github.io/bsn/sitemap_index.txt
+Sitemap: https://efavuuka.github.io/kjl/sitemap_index.txt
+Sitemap: https://efavuuka.github.io/tFI/sitemap_index.txt
